@@ -24,4 +24,4 @@ UNIT_CONVERTOR
 | [4_TestPlanAndOutput](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/4_TestplanAndOutput) | Documents with test plans and procedures  |
 | [5_Report](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/5_Report) | Report of the project  |
 | [6_ImagesAndVideos](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/6_ImagesAndVideos) | All the images used in the project are displayed here|
-| [7_Others]() | All other Related Contents|
+| [7_Others](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/7_Others) | All other Related Contents|
