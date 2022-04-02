@@ -1,23 +1,17 @@
 # Requirements
 ## Introduction
- * This project is based on simple unit convertor which is used to convert one unit of length to another.
+ * This project is based on simple unit converter which is used to convert one unit of length to another.
  * It has a wide range of usage in the field of carpentary, road constructions,textiles,electricals,educational institutes.
  * It has a wide range of conversions.
  * It promotes the usage of standard SI units.
+ * It helps in reducing errors that occur during unit conversions.
+ 
 
 
 # Research
-## C PROGRAMMING
-* This is a simple project which simply provide easy contents on c programming to the user after taking input from the user.
-* This project is built using traditional file handling system rather than Data base system. here the user provides his/her desired choice and the code after taking input from the user it runs the respective user defined funtion which prints the contents of the respective topic.
- 
- 
- 
- 
- 
-
-
-
+ * On looking into some journals and papers it was infered that SI units play a critical role in calculations and modelling.
+ * In all mechanical and automated industries, the equipments generally accept only SI units.
+ * On a day-to-day basis the products available in the markets are only available in standard measurements,so this unit converter could be used to convert the      measurements we record to the standard measurements available in the market.
 
 
 # The 4W's and a H 
