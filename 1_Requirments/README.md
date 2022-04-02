@@ -1,12 +1,15 @@
 # Requirements
 ## Introduction
- * This project is based on simple unit convertor which is used to convert one unit length to other.
- * It has a wide range of 
- * 
+ * This project is based on simple unit convertor which is used to convert one unit of length to another.
+ * It has a wide range of usage in the field of carpentary, road constructions,textiles,electricals,educational institutes.
+ * It has a wide range of conversions.
+ * It promotes the usage of standard SI units.
 
 
 # Research
-## E-BOOK ON C PROGRAMMING
+## C PROGRAMMING
+* This is a simple project which simply provide easy contents on c programming to the user after taking input from the user.
+* This project is built using traditional file handling system rather than Data base system. here the user provides his/her desired choice and the code after taking input from the user it runs the respective user defined funtion which prints the contents of the respective topic.
  
  
  
