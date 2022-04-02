@@ -2,5 +2,5 @@
 UNIT_CONVERTOR
 # Badges
 
-* Codiga - Code Grade
+* Codiga
  ![Quality](https://api.codiga.io/project/32389/status/svg)
