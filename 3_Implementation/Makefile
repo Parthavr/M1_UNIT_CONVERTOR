@@ -1,5 +1,5 @@
 Build :
-	gcc Unit_Convert.h main.c function.c action.c unity/unity.c  -Iunity
+	gcc Unit_Convert.h main.c function.c action.c 
 
 Run:
 	./a.out
