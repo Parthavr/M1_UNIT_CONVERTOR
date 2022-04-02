@@ -19,7 +19,7 @@ UNIT_CONVERTOR
 |-----|-------|
 | [0_Certificates](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/0_Certificates)| All the certificates are provided here|
 | [1_Requirements](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/1_Requirments) | Documents detailing requirements   |
-| [2_Architecture]() |   Documents specifying design details   |
+| [2_Architecture](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/2_Architecture) |   Documents specifying design details   |
 | [3_Implementation]() | All code and documentation |
 | [4_TestPlanAndOutput]() | Documents with test plans and procedures  |
 | [5_Report]() | Report of the project  |
