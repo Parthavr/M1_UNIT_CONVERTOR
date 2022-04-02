@@ -16,15 +16,15 @@
 
 # The 4W's and a H 
 ## WHAT
-  * It is a simple Students Records Management System for managing students information.
+  * It is a simple unit convertor for converting one unit to another unit .
 ## WHY
-  * The main objective of this project is that the students data that are stored can be easily edited ,removed and even updated by the user.
+  * The main objective of this project is to help people to convert to the desired length units.
 ## WHO
-  * People who are in need of managing student datas and information,mainly the institutions require this Student Records Management System and they are the end users of this project.
+  * People who are in need of calculating  unit length ,mainly required for the people who perform carpentayr works.
 ## WHERE
-  * This project mainly comes in use in places like schools, colleges, instututes,and even in universities.
+  * This project mainly comes in use in places like Construction sites,Road constructions.
 ## HOW
-  * This project is implemented using "c program" and uses traditional file systems and not database system.
+  * This project is implemented using "c program" by using mathematical functions and formulae.
  
  
 
@@ -35,7 +35,6 @@
    * Ease of use
    * Guidance Availability
 ## WEAKNESS:
-   * No Database only Traditional File System
    * Timescale and Deadline
    * Process and System
    * Post training required
@@ -50,7 +49,7 @@
 
 
 
-![SWOT analysis ltts]()
+![SWOT analysis ]()
 
 
 # Detail Requirements
