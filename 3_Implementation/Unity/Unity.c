@@ -2107,5 +2107,5 @@ int UnityTestMatches(void)
     return retval;
 }
 
-#endif /* UNITY_USE_COMMAND_LINE_ARGS */
+#endif /*  UNITY_USE_COMMAND_LINE_ARGS */
 /-----------------------------------------------/
