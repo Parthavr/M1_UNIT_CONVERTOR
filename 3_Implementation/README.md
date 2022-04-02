@@ -7,6 +7,6 @@ Folder        | description
 `src`         |  Contains all the source codes required for the code.
 `test`        |  Contains all test files.
 `unity`       | Contains the Test Framework.
-`main.c` | Contains the code of the project(unit convertor)
+`Myproject.c` | Contains the code of the project(unit convertor)
 
 
