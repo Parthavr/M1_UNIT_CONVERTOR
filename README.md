@@ -4,3 +4,6 @@ UNIT_CONVERTOR
 
 * Codiga
  ![Quality](https://api.codiga.io/project/32389/status/svg)
+ 
+ * Codiga - Static Analysis
+ ![Quality](https://api.codiga.io/project/32389/score/svg)
