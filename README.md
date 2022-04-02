@@ -17,11 +17,11 @@ UNIT_CONVERTOR
 
 |  Folder  |  Description  |
 |-----|-------|
-| [0_Certificates](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/tree/main/0_Certificates)| All the certificates are provided here|
-| [1_Requirements](https://github.com/AdithyaaRavishankar/M1_March_2022/tree/main/1_Requirements) | Documents detailing requirements   |
-| [2_Architecture](https://github.com/AdithyaaRavishankar/M1_March_2022/tree/main/2_Architecture) |   Documents specifying design details   |
-| [3_Implementation](https://github.com/AdithyaaRavishankar/M1_March_2022/tree/main/3_Implementation) | All code and documentation |
-| [4_TestPlanAndOutput](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/tree/main/4_TestplanAndOutput) | Documents with test plans and procedures  |
-| [5_Report](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/tree/main/5_Report) | Report of the project  |
-| [6_ImagesAndVideos](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/tree/main/6_ImagesAndVideos) | All the images used in the project are displayed here|
-| [7_Others](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/tree/main/7_Others) | All other Related Contents|
+| [0_Certificates](https://github.com/Parthavr/M1_UNIT_CONVERTOR/tree/main/0_Certificates)| All the certificates are provided here|
+| [1_Requirements]() | Documents detailing requirements   |
+| [2_Architecture]() |   Documents specifying design details   |
+| [3_Implementation]() | All code and documentation |
+| [4_TestPlanAndOutput]() | Documents with test plans and procedures  |
+| [5_Report]() | Report of the project  |
+| [6_ImagesAndVideos]() | All the images used in the project are displayed here|
+| [7_Others]() | All other Related Contents|
