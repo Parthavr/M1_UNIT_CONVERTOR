@@ -16,6 +16,8 @@ UNIT_CONVERTOR
  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c37a10f7d1b2447688d42fe8fb386ead)](https://www.codacy.com/gh/Parthavr/M1_UNIT_CONVERTOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Parthavr/M1_UNIT_CONVERTOR&amp;utm_campaign=Badge_Grade)
  
  [![Analysis](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/analysis.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/analysis.yml)
+ 
+ [![Build CI - Linux](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/build%20on%20linux.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/build%20on%20linux.yml)
 
 |  Folder  |  Description  |
 |-----|-------|
