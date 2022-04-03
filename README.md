@@ -22,6 +22,7 @@ UNIT_CONVERTOR
  [![Build CI - Windows](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/Build%20on%20windows.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/Build%20on%20windows.yml)
  [![Contribution Check - Git Inspector](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/gitinspector.yml)
  [![Unit Testing - Unity](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/unit-testing.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/unit-testing.yml)
+ [![Valgrind](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/valgrind.yml)
 
 |  Folder  |  Description  |
 |-----|-------|
