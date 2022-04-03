@@ -23,6 +23,7 @@ UNIT_CONVERTOR
  [![Contribution Check - Git Inspector](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/gitinspector.yml)
  [![Unit Testing - Unity](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/unit-testing.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/unit-testing.yml)
  [![Valgrind](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/valgrind.yml)
+ [![cppcheck-action](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/cppcheck.yml)
 
 |  Folder  |  Description  |
 |-----|-------|
