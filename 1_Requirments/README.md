@@ -58,7 +58,7 @@
 
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
-| HLR 1 |    user can be able to access help unit convertor   |  Implemented  |
+| HLR 1 |    user can be able to access help unit convertor.   |  Implemented  |
 | HLR 2 |    User can Execute any converter unit to another unit.   | Implemented |
 | HLR 3 |    user can be different value mm,cm,inch,feet.   | Implemented |
 | HLR 4 |    User shall be able to write their own code and execute.  | In Future |
@@ -71,4 +71,4 @@
 | ----- | ----------- | ------------------------------- |
 | LLR 1 |    User can be able to given input value.  |  Implemented  |
 | LLR 2 |    user can  be able to see different value .  | Implemented |
-| LLR 3 |    user should be able to manage more values  | In Future |
+| LLR 3 |    user should be able to manage more values.  | In Future |
