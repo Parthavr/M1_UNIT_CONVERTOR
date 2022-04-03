@@ -20,6 +20,7 @@ UNIT_CONVERTOR
  [![Build CI - Linux](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/build%20on%20linux.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/build%20on%20linux.yml)
  
  [![Build CI - Windows](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/Build%20on%20windows.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/Build%20on%20windows.yml)
+ [![Contribution Check - Git Inspector](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/gitinspector.yml)
 
 |  Folder  |  Description  |
 |-----|-------|
