@@ -58,12 +58,12 @@
 
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
-| HLR 1 |    System output must display the contents of the file.   |  Implemented  |
-| HLR 2 |    User can Execute sample codes.   | Implemented |
-| HLR 3 |    Student's ID is asked to display details.   | Implemented |
+| HLR 1 |    user can be able to access help unit convertor   |  Implemented  |
+| HLR 2 |    User can Execute any converterunit to another unit.   | Implemented |
+| HLR 3 |    user can be different value mm,cm,inch,feet.   | Implemented |
 | HLR 4 |    User shall be able to write their own code and execute.  | In Future |
-| HLR 5 |    User shall be able to access a learning leader board.   | In Future |
-| HLR 6 |    Login and Password Authentication system.    |  In Future |
+| HLR 5 |    User shall be able to access different value.   | In Future |
+| HLR 6 |   user  can be able to add more uint length.    |  In Future |
 
 ## Low Level Requirements:
 
