@@ -18,6 +18,8 @@ UNIT_CONVERTOR
  [![Analysis](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/analysis.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/analysis.yml)
  
  [![Build CI - Linux](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/build%20on%20linux.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/build%20on%20linux.yml)
+ 
+ [![Build CI - Windows](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/Build%20on%20windows.yml/badge.svg)](https://github.com/Parthavr/M1_UNIT_CONVERTOR/actions/workflows/Build%20on%20windows.yml)
 
 |  Folder  |  Description  |
 |-----|-------|
