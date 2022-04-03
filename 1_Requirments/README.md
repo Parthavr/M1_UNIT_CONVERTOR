@@ -59,16 +59,16 @@
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
 | HLR 1 |    user can be able to access help unit convertor   |  Implemented  |
-| HLR 2 |    User can Execute any converterunit to another unit.   | Implemented |
+| HLR 2 |    User can Execute any converter unit to another unit.   | Implemented |
 | HLR 3 |    user can be different value mm,cm,inch,feet.   | Implemented |
 | HLR 4 |    User shall be able to write their own code and execute.  | In Future |
 | HLR 5 |    User shall be able to access different value.   | In Future |
-| HLR 6 |   user  can be able to add more uint length.    |  In Future |
+| HLR 6 |   user  can be able to add more unit length.    |  In Future |
 
 ## Low Level Requirements:
 
 |  ID   | Description | Status (Implemented/ In Future) |
 | ----- | ----------- | ------------------------------- |
-| LLR 1 |    User shall be able to read the text files.  |  Implemented  |
-| LLR 2 |    user should be able to login | In Future |
-| LLR 3 |    user should be able to manage their data | In Future |
+| LLR 1 |    User can be able to given input value.  |  Implemented  |
+| LLR 2 |    user can  be able to see different value .  | Implemented |
+| LLR 3 |    user should be able to manage more values  | In Future |
